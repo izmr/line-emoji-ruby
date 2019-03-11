@@ -1,0 +1,1220 @@
+[
+  {
+    "code": "hee",
+    "aliases": [
+      "イヒッ"
+    ],
+    "unicode": "0x10008C"
+  },
+  {
+    "code": "moon grin",
+    "aliases": [
+      "えへへ"
+    ],
+    "unicode": "0x10008D"
+  },
+  {
+    "code": "oops",
+    "aliases": [
+      "あちゃー"
+    ],
+    "unicode": "0x10008E"
+  },
+  {
+    "code": "moon wink",
+    "aliases": [
+      "ナイス"
+    ],
+    "unicode": "0x10008F"
+  },
+  {
+    "code": "content",
+    "aliases": [
+      "ホッ"
+    ],
+    "unicode": "0x100090"
+  },
+  {
+    "code": "gasp!",
+    "aliases": [
+      "なんと!?"
+    ],
+    "unicode": "0x100091"
+  },
+  {
+    "code": "blue",
+    "aliases": [
+      "しゅん"
+    ],
+    "unicode": "0x100092"
+  },
+  {
+    "code": "nom nom",
+    "aliases": [
+      "もぐもぐ"
+    ],
+    "unicode": "0x100093"
+  },
+  {
+    "code": "ah...",
+    "aliases": [
+      "たらりー"
+    ],
+    "unicode": "0x100094"
+  },
+  {
+    "code": "at last!",
+    "aliases": [
+      "やった〜"
+    ],
+    "unicode": "0x100095"
+  },
+  {
+    "code": "cony kiss",
+    "aliases": [
+      "ちゅっ"
+    ],
+    "unicode": "0x100096"
+  },
+  {
+    "code": "hmph",
+    "aliases": [
+      "フッ"
+    ],
+    "unicode": "0x100097"
+  },
+  {
+    "code": "brr",
+    "aliases": [
+      "ぶるっ"
+    ],
+    "unicode": "0x100098"
+  },
+  {
+    "code": "half dead",
+    "aliases": [
+      "げっそり"
+    ],
+    "unicode": "0x100099"
+  },
+  {
+    "code": "sharp",
+    "aliases": [
+      "ギラーン"
+    ],
+    "unicode": "0x10009A"
+  },
+  {
+    "code": "panic",
+    "aliases": [
+      "げっ!?"
+    ],
+    "unicode": "0x10009B"
+  },
+  {
+    "code": "doze off",
+    "aliases": [
+      "ねむい"
+    ],
+    "unicode": "0x10009C"
+  },
+  {
+    "code": "aww",
+    "aliases": [
+      "デレー"
+    ],
+    "unicode": "0x10009D"
+  },
+  {
+    "code": "argh!",
+    "aliases": [
+      "ピキッ"
+    ],
+    "unicode": "0x10009E"
+  },
+  {
+    "code": "who, me?",
+    "aliases": [
+      "知らんぷり"
+    ],
+    "unicode": "0x10009F"
+  },
+  {
+    "code": "ghost",
+    "aliases": [
+
+    ],
+    "unicode": "0x1000A0"
+  },
+  {
+    "code": "halloween",
+    "aliases": [
+      "jack o'lantern"
+    ],
+    "unicode": "0x1000A1"
+  },
+  {
+    "code": "skull",
+    "aliases": [
+      "skull and crossbones"
+    ],
+    "unicode": "0x1000A2"
+  },
+  {
+    "code": "poop",
+    "aliases": [
+      "poo"
+    ],
+    "unicode": "0x1000A3"
+  },
+  {
+    "code": "fire",
+    "aliases": [
+
+    ],
+    "unicode": "0x1000A4"
+  },
+  {
+    "code": "yes",
+    "aliases": [
+
+    ],
+    "unicode": "0x1000A5"
+  },
+  {
+    "code": "no",
+    "aliases": [
+
+    ],
+    "unicode": "0x1000A6"
+  },
+  {
+    "code": "toilet",
+    "aliases": [
+
+    ],
+    "unicode": "0x1000A7"
+  },
+  {
+    "code": "moon",
+    "aliases": [
+      "moon and stars"
+    ],
+    "unicode": "0x1000A8"
+  },
+  {
+    "code": "sun",
+    "aliases": [
+      "sunny"
+    ],
+    "unicode": "0x1000A9"
+  },
+  {
+    "code": "rain",
+    "aliases": [
+
+    ],
+    "unicode": "0x1000AA"
+  },
+  {
+    "code": "snow",
+    "aliases": [
+
+    ],
+    "unicode": "0x1000AB"
+  },
+  {
+    "code": "cloud",
+    "aliases": [
+      "cloudy"
+    ],
+    "unicode": "0x1000AC"
+  },
+  {
+    "code": "boo",
+    "aliases": [
+      "ブーイング"
+    ],
+    "unicode": "0x1000AD"
+  },
+  {
+    "code": "clap",
+    "aliases": [
+      "拍手"
+    ],
+    "unicode": "0x1000AE "
+  },
+  {
+    "code": "1 heart",
+    "aliases": [
+      "1ハート"
+    ],
+    "unicode": "0x1000AF"
+  },
+  {
+    "code": "3 hearts",
+    "aliases": [
+      "3ハート"
+    ],
+    "unicode": "0x1000B0"
+  },
+  {
+    "code": "2 hearts",
+    "aliases": [
+      "2ハート"
+    ],
+    "unicode": "0x1000B1"
+  },
+  {
+    "code": "star",
+    "aliases": [
+
+    ],
+    "unicode": "0x1000B2"
+  },
+  {
+    "code": "2 stars",
+    "aliases": [
+      "stars"
+    ],
+    "unicode": "0x1000B3"
+  },
+  {
+    "code": "calculator",
+    "aliases": [
+
+    ],
+    "unicode": "0x1000B4"
+  },
+  {
+    "code": "bed",
+    "aliases": [
+
+    ],
+    "unicode": "0x1000B5"
+  },
+  {
+    "code": "chocolate cake",
+    "aliases": [
+      "cupcake"
+    ],
+    "unicode": "0x1000B6"
+  },
+  {
+    "code": "medicine",
+    "aliases": [
+
+    ],
+    "unicode": "0x1000B7"
+  },
+  {
+    "code": "rose",
+    "aliases": [
+
+    ],
+    "unicode": "0x1000B8"
+  },
+  {
+    "code": "rose stalk",
+    "aliases": [
+
+    ],
+    "unicode": "0x1000B9"
+  },
+  {
+    "code": "love",
+    "aliases": [
+      "キュンキュン"
+    ],
+    "unicode": "0x100078"
+  },
+  {
+    "code": "hahaha",
+    "aliases": [
+      "ぎゃはは"
+    ],
+    "unicode": "0x100079"
+  },
+  {
+    "code": "please!",
+    "aliases": [
+      "おねがい"
+    ],
+    "unicode": "0x10007A"
+  },
+  {
+    "code": "shocked",
+    "aliases": [
+      "えっ!?"
+    ],
+    "unicode": "0x10007B"
+  },
+  {
+    "code": "sad",
+    "aliases": [
+      "うぅっ"
+    ],
+    "unicode": "0x10007C"
+  },
+  {
+    "code": "oh no!",
+    "aliases": [
+      "ゴーン"
+    ],
+    "unicode": "0x10007D"
+  },
+  {
+    "code": "super angry",
+    "aliases": [
+      "激怒"
+    ],
+    "unicode": "0x10007E"
+  },
+  {
+    "code": "haha",
+    "aliases": [
+      "あはは"
+    ],
+    "unicode": "0x10007F"
+  },
+  {
+    "code": "sparkling eyes",
+    "aliases": [
+      "きらら"
+    ],
+    "unicode": "0x100080"
+  },
+  {
+    "code": "kiss me",
+    "aliases": [
+      "ぶちゅー"
+    ],
+    "unicode": "0x100081"
+  },
+  {
+    "code": "tongue out",
+    "aliases": [
+      "べぇー"
+    ],
+    "unicode": "0x100082"
+  },
+  {
+    "code": "frozen",
+    "aliases": [
+      "固まる"
+    ],
+    "unicode": "0x100083"
+  },
+  {
+    "code": "hello",
+    "aliases": [
+      "Brown"
+    ],
+    "unicode": "0x100084"
+  },
+  {
+    "code": "eh?!",
+    "aliases": [
+      "ハッ!?"
+    ],
+    "unicode": "0x100085"
+  },
+  {
+    "code": "goodnight",
+    "aliases": [
+      "おやすみ"
+    ],
+    "unicode": "0x100086"
+  },
+  {
+    "code": "stressed",
+    "aliases": [
+      "むかーっ"
+    ],
+    "unicode": "0x100087"
+  },
+  {
+    "code": "worn out",
+    "aliases": [
+      "やつれる"
+    ],
+    "unicode": "0x100088"
+  },
+  {
+    "code": "what?!",
+    "aliases": [
+      "なにっ!?"
+    ],
+    "unicode": "0x100089"
+  },
+  {
+    "code": "james wink",
+    "aliases": [
+      "Jウィンク"
+    ],
+    "unicode": "0x10008A"
+  },
+  {
+    "code": "attracted",
+    "aliases": [
+      "一目惚れ"
+    ],
+    "unicode": "0x10008B"
+  },
+  {
+    "code": "happy",
+    "aliases": [
+      "わーい"
+    ],
+    "unicode": "0x100001"
+  },
+  {
+    "code": "smile",
+    "aliases": [
+      "にこ"
+    ],
+    "unicode": "0x100002"
+  },
+  {
+    "code": "laugh",
+    "aliases": [
+      "笑顔"
+    ],
+    "unicode": "0x100003"
+  },
+  {
+    "code": "blush",
+    "aliases": [
+      "きゅん"
+    ],
+    "unicode": "0x100004"
+  },
+  {
+    "code": "wink",
+    "aliases": [
+      "ういんく"
+    ],
+    "unicode": "0x100005"
+  },
+  {
+    "code": "glad",
+    "aliases": [
+      "うれしい"
+    ],
+    "unicode": "0x100006"
+  },
+  {
+    "code": "blowkiss",
+    "aliases": [
+      "ハートキス"
+    ],
+    "unicode": "0x100007"
+  },
+  {
+    "code": "kiss",
+    "aliases": [
+      "キス"
+    ],
+    "unicode": "0x100008"
+  },
+  {
+    "code": "baffled",
+    "aliases": [
+      "ぽっ"
+    ],
+    "unicode": "0x100009"
+  },
+  {
+    "code": "relief",
+    "aliases": [
+      "ほっ"
+    ],
+    "unicode": "0x10000A"
+  },
+  {
+    "code": "grin",
+    "aliases": [
+      "にやり"
+    ],
+    "unicode": "0x10000B"
+  },
+  {
+    "code": "kidding",
+    "aliases": [
+      "あっかんべ"
+    ],
+    "unicode": "0x10000C"
+  },
+  {
+    "code": "funny",
+    "aliases": [
+      "べー"
+    ],
+    "unicode": "0x10000D"
+  },
+  {
+    "code": "unamused",
+    "aliases": [
+      "しらー"
+    ],
+    "unicode": "0x10000E"
+  },
+  {
+    "code": "smirk",
+    "aliases": [
+      "にた"
+    ],
+    "unicode": "0x10000F"
+  },
+  {
+    "code": "bittersmile",
+    "aliases": [
+      "たらー"
+    ],
+    "unicode": "0x100010"
+  },
+  {
+    "code": "hm",
+    "aliases": [
+      "うーん"
+    ],
+    "unicode": "0x100011"
+  },
+  {
+    "code": "disappointed",
+    "aliases": [
+      "えー"
+    ],
+    "unicode": "0x100012"
+  },
+  {
+    "code": "unbearable",
+    "aliases": [
+      "もうやだ"
+    ],
+    "unicode": "0x100013"
+  },
+  {
+    "code": "exasperated",
+    "aliases": [
+      "困る"
+    ],
+    "unicode": "0x100015"
+  },
+  {
+    "code": "anguished",
+    "aliases": [
+      "がーん"
+    ],
+    "unicode": "0x100016"
+  },
+  {
+    "code": "tired",
+    "aliases": [
+      "ごめん"
+    ],
+    "unicode": "0x100017"
+  },
+  {
+    "code": "tear",
+    "aliases": [
+      "涙"
+    ],
+    "unicode": "0x100018"
+  },
+  {
+    "code": "crying",
+    "aliases": [
+      "えーん"
+    ],
+    "unicode": "0x100019"
+  },
+  {
+    "code": "tearsofjoy",
+    "aliases": [
+      "うれし泣き"
+    ],
+    "unicode": "0x10001A"
+  },
+  {
+    "code": "astonished",
+    "aliases": [
+      "ふらふら"
+    ],
+    "unicode": "0x10001B"
+  },
+  {
+    "code": "scream",
+    "aliases": [
+      "さいあく"
+    ],
+    "unicode": "0x10001C"
+  },
+  {
+    "code": "pouting",
+    "aliases": [
+      "むっ"
+    ],
+    "unicode": "0x10001D"
+  },
+  {
+    "code": "angry",
+    "aliases": [
+      "怒る"
+    ],
+    "unicode": "0x10001E"
+  },
+  {
+    "code": "dozing",
+    "aliases": [
+      "居眠り"
+    ],
+    "unicode": "0x10001F"
+  },
+  {
+    "code": "mask",
+    "aliases": [
+      "ごほごほ"
+    ],
+    "unicode": "0x100020"
+  },
+  {
+    "code": "dazed",
+    "aliases": [
+      "ぼー"
+    ],
+    "unicode": "0x100021"
+  },
+  {
+    "code": "catface",
+    "aliases": [
+      "にゃー"
+    ],
+    "unicode": "0x100022"
+  },
+  {
+    "code": "yummy",
+    "aliases": [
+      "うまー"
+    ],
+    "unicode": "0x100023"
+  },
+  {
+    "code": "imp",
+    "aliases": [
+      "devil"
+    ],
+    "unicode": "0x100024"
+  },
+  {
+    "code": "rage",
+    "aliases": [
+      "angry"
+    ],
+    "unicode": "0x100026 "
+  },
+  {
+    "code": "surprise",
+    "aliases": [
+
+    ],
+    "unicode": "0x100027"
+  },
+  {
+    "code": "drop",
+    "aliases": [
+      "sweat"
+    ],
+    "unicode": "0x100029"
+  },
+  {
+    "code": "dash",
+    "aliases": [
+
+    ],
+    "unicode": "0x10002A"
+  },
+  {
+    "code": "sleepy",
+    "aliases": [
+      "zzz"
+    ],
+    "unicode": "0x10002B"
+  },
+  {
+    "code": "lips",
+    "aliases": [
+      "唇"
+    ],
+    "unicode": "0x10002C"
+  },
+  {
+    "code": "shiny",
+    "aliases": [
+      "sparkle"
+    ],
+    "unicode": "0x10002D"
+  },
+  {
+    "code": "eyes",
+    "aliases": [
+
+    ],
+    "unicode": "0x10002E"
+  },
+  {
+    "code": "ear",
+    "aliases": [
+      "耳"
+    ],
+    "unicode": "0x10002F"
+  },
+  {
+    "code": "scissors",
+    "aliases": [
+      "チョキ"
+    ],
+    "unicode": "0x100030"
+  },
+  {
+    "code": "paper",
+    "aliases": [
+      "パー"
+    ],
+    "unicode": "0x100031"
+  },
+  {
+    "code": "rock",
+    "aliases": [
+      "グー"
+    ],
+    "unicode": "0x100032"
+  },
+  {
+    "code": "ok",
+    "aliases": [
+      "OK"
+    ],
+    "unicode": "0x100033"
+  },
+  {
+    "code": "!",
+    "aliases": [
+      "!!!"
+    ],
+    "unicode": "0x100035"
+  },
+  {
+    "code": "!?",
+    "aliases": [
+      "?"
+    ],
+    "unicode": "0x100036"
+  },
+  {
+    "code": "heart",
+    "aliases": [
+      "ハート"
+    ],
+    "unicode": "0x100037"
+  },
+  {
+    "code": "brokenheart",
+    "aliases": [
+      "失恋"
+    ],
+    "unicode": "0x100038"
+  },
+  {
+    "code": "eighthnote",
+    "aliases": [
+      "music note"
+    ],
+    "unicode": "0x100039"
+  },
+  {
+    "code": "thunder",
+    "aliases": [
+
+    ],
+    "unicode": "0x10003A"
+  },
+  {
+    "code": "PC",
+    "aliases": [
+
+    ],
+    "unicode": "0x10003B"
+  },
+  {
+    "code": "phone",
+    "aliases": [
+
+    ],
+    "unicode": "0x10003C"
+  },
+  {
+    "code": "cellphone",
+    "aliases": [
+
+    ],
+    "unicode": "0x10003D"
+  },
+  {
+    "code": "loveletter",
+    "aliases": [
+
+    ],
+    "unicode": "0x100040"
+  },
+  {
+    "code": "pencil",
+    "aliases": [
+
+    ],
+    "unicode": "0x100041"
+  },
+  {
+    "code": "baseball",
+    "aliases": [
+
+    ],
+    "unicode": "0x100042"
+  },
+  {
+    "code": "golfball",
+    "aliases": [
+
+    ],
+    "unicode": "0x100043"
+  },
+  {
+    "code": "tennisball",
+    "aliases": [
+
+    ],
+    "unicode": "0x100044"
+  },
+  {
+    "code": "soccerball",
+    "aliases": [
+
+    ],
+    "unicode": "0x100045"
+  },
+  {
+    "code": "train",
+    "aliases": [
+
+    ],
+    "unicode": "0x100047"
+  },
+  {
+    "code": "car",
+    "aliases": [
+
+    ],
+    "unicode": "0x100049"
+  },
+  {
+    "code": "plane",
+    "aliases": [
+
+    ],
+    "unicode": "0x10004A"
+  },
+  {
+    "code": "bicycle",
+    "aliases": [
+
+    ],
+    "unicode": "0x10004B"
+  },
+  {
+    "code": "building",
+    "aliases": [
+
+    ],
+    "unicode": "0x10004C"
+  },
+  {
+    "code": "postoffice",
+    "aliases": [
+
+    ],
+    "unicode": "0x10004D"
+  },
+  {
+    "code": "hospital",
+    "aliases": [
+
+    ],
+    "unicode": "0x10004E"
+  },
+  {
+    "code": "school",
+    "aliases": [
+
+    ],
+    "unicode": "0x10004F"
+  },
+  {
+    "code": "bank",
+    "aliases": [
+
+    ],
+    "unicode": "0x100050"
+  },
+  {
+    "code": "spa",
+    "aliases": [
+
+    ],
+    "unicode": "0x100051"
+  },
+  {
+    "code": "gasstation",
+    "aliases": [
+
+    ],
+    "unicode": "0x100053"
+  },
+  {
+    "code": "noodles",
+    "aliases": [
+
+    ],
+    "unicode": "0x100054"
+  },
+  {
+    "code": "hamburger",
+    "aliases": [
+
+    ],
+    "unicode": "0x100055"
+  },
+  {
+    "code": "cake",
+    "aliases": [
+
+    ],
+    "unicode": "0x100056"
+  },
+  {
+    "code": "cocktail",
+    "aliases": [
+
+    ],
+    "unicode": "0x100057"
+  },
+  {
+    "code": "beer",
+    "aliases": [
+
+    ],
+    "unicode": "0x100058"
+  },
+  {
+    "code": "coffee",
+    "aliases": [
+
+    ],
+    "unicode": "0x100059"
+  },
+  {
+    "code": "apple",
+    "aliases": [
+
+    ],
+    "unicode": "0x10005B"
+  },
+  {
+    "code": "chick",
+    "aliases": [
+
+    ],
+    "unicode": "0x10005C"
+  },
+  {
+    "code": "pig",
+    "aliases": [
+
+    ],
+    "unicode": "0x10005D"
+  },
+  {
+    "code": "dog",
+    "aliases": [
+
+    ],
+    "unicode": "0x10005E"
+  },
+  {
+    "code": "cat",
+    "aliases": [
+
+    ],
+    "unicode": "0x10005F"
+  },
+  {
+    "code": "flower",
+    "aliases": [
+
+    ],
+    "unicode": "0x100060"
+  },
+  {
+    "code": "fourleafclover",
+    "aliases": [
+
+    ],
+    "unicode": "0x100061"
+  },
+  {
+    "code": "tulip",
+    "aliases": [
+
+    ],
+    "unicode": "0x100062"
+  },
+  {
+    "code": "wave",
+    "aliases": [
+
+    ],
+    "unicode": "0x100064"
+  },
+  {
+    "code": "cigar",
+    "aliases": [
+
+    ],
+    "unicode": "0x100065"
+  },
+  {
+    "code": "nosmoking",
+    "aliases": [
+
+    ],
+    "unicode": "0x100066"
+  },
+  {
+    "code": "highheels",
+    "aliases": [
+
+    ],
+    "unicode": "0x100067"
+  },
+  {
+    "code": "lipstick",
+    "aliases": [
+
+    ],
+    "unicode": "0x100068"
+  },
+  {
+    "code": "ribbon",
+    "aliases": [
+
+    ],
+    "unicode": "0x100069"
+  },
+  {
+    "code": "camera",
+    "aliases": [
+
+    ],
+    "unicode": "0x10006A"
+  },
+  {
+    "code": "bag",
+    "aliases": [
+
+    ],
+    "unicode": "0x10006B"
+  },
+  {
+    "code": "book",
+    "aliases": [
+
+    ],
+    "unicode": "0x10006C"
+  },
+  {
+    "code": "TV",
+    "aliases": [
+
+    ],
+    "unicode": "0x10006D"
+  },
+  {
+    "code": "videogame",
+    "aliases": [
+
+    ],
+    "unicode": "0x10006E"
+  },
+  {
+    "code": "cinema",
+    "aliases": [
+
+    ],
+    "unicode": "0x10006F"
+  },
+  {
+    "code": "headphones",
+    "aliases": [
+
+    ],
+    "unicode": "0x100070"
+  },
+  {
+    "code": "clock",
+    "aliases": [
+
+    ],
+    "unicode": "0x100071"
+  },
+  {
+    "code": "purse",
+    "aliases": [
+
+    ],
+    "unicode": "0x100072"
+  },
+  {
+    "code": "crown",
+    "aliases": [
+
+    ],
+    "unicode": "0x100073"
+  },
+  {
+    "code": "ring",
+    "aliases": [
+
+    ],
+    "unicode": "0x100074"
+  },
+  {
+    "code": "gift",
+    "aliases": [
+
+    ],
+    "unicode": "0x100075"
+  },
+  {
+    "code": "birthday",
+    "aliases": [
+
+    ],
+    "unicode": "0x100076"
+  },
+  {
+    "code": "lightbulb",
+    "aliases": [
+
+    ],
+    "unicode": "0x100077"
+  }
+]
